@@ -22,3 +22,8 @@ We welcome contributions to the project! To contribute, follow these steps:
 3. Make your changes and commit them: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature-branch`
 5. Create a pull request
+
+## Running Tests
+To run tests for the project, follow these steps:
+1. Ensure all dependencies are installed: `npm install`
+2. Run the tests: `npm test`
